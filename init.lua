@@ -1,0 +1,8 @@
+require('plugins')
+require('settings')
+require('keymaps')
+require('cmp-config')
+require('lsp')
+require('treesiter')
+require("neotree")
+require("lua_line")
